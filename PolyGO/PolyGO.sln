@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C6AA685B-A776-0D9A-1031-4C362FDDB3D8}") = "PolyGO", "Assembly-CSharp-firstpass.csproj", "{B98C77D3-20EB-2FF3-9676-CF4EE4F73694}"
+EndProject
+Project("{C6AA685B-A776-0D9A-1031-4C362FDDB3D8}") = "PolyGO", "Assembly-CSharp.csproj", "{65A23388-5EC3-4958-AF96-C6F6DB38A3AE}"
+EndProject
+Project("{C6AA685B-A776-0D9A-1031-4C362FDDB3D8}") = "PolyGO", "Assembly-UnityScript-firstpass.unityproj", "{D6141C17-23DC-9BCE-D1AD-DFB0A1D2EAFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B98C77D3-20EB-2FF3-9676-CF4EE4F73694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B98C77D3-20EB-2FF3-9676-CF4EE4F73694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B98C77D3-20EB-2FF3-9676-CF4EE4F73694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B98C77D3-20EB-2FF3-9676-CF4EE4F73694}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65A23388-5EC3-4958-AF96-C6F6DB38A3AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65A23388-5EC3-4958-AF96-C6F6DB38A3AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65A23388-5EC3-4958-AF96-C6F6DB38A3AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65A23388-5EC3-4958-AF96-C6F6DB38A3AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6141C17-23DC-9BCE-D1AD-DFB0A1D2EAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6141C17-23DC-9BCE-D1AD-DFB0A1D2EAFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6141C17-23DC-9BCE-D1AD-DFB0A1D2EAFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6141C17-23DC-9BCE-D1AD-DFB0A1D2EAFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
